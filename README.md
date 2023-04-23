@@ -1,6 +1,6 @@
 # Enigma Machine
 
-This repo contains the code used in a university project to create an enigma machine in c++. It uses OOP concepts to allow for strong and flexible design.
+This repo contains the code used in a university project to create an enigma machine in c++. It uses OOP concepts in C++.
 
 The executable must be started with the configuration files for the plugboard, reflector and rotors of the machine (example files given here).
 
