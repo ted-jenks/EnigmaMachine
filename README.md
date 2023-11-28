@@ -5,3 +5,5 @@ This repo contains the code used in a university project to create an enigma mac
 The executable must be started with the configuration files for the plugboard, reflector and rotors of the machine (example files given here).
 
 The machine can take a string of characters and encode/decode them. Passing an encoded string to a machine with the same setup as the message was encoded with will decode it.
+
+This is a machine not the alen turing code cracker.
